@@ -1,6 +1,6 @@
 # CS2 Server Signatures Tracker
 
-* **Last updated:** April 4, 2025 at 9:29:39 PM UTC
+* **Last updated:** April 6, 2025 at 9:28:16 PM UTC
 * **Manifests:** [6786672108314665590](https://steamdb.info/depot/2347771/history/?changeid=M:6786672108314665590), [5087254296014596550](https://steamdb.info/depot/2347773/history/?changeid=M:5087254296014596550)
 
 <table>
@@ -18,7 +18,6 @@
 
 * <sub>✅Linux ❌Windows</sub> TracePlayerBBox
 * <sub>❌Linux ❌Windows</sub> EmitSound
-* <sub>❌Linux ✅Windows</sub> CSource2Server::Init
 * <sub>❌Linux ❌Windows</sub> SetGroundEntity
 * <sub>❌Linux ✅Windows</sub> CCSPlayer_ItemServices_CanAcquire
 * <sub>✅Linux ❌Windows</sub> CCSPlayer_WeaponServices::Weapon_Equip
